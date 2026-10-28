@@ -1,7 +1,7 @@
 # 📊 Introduction to Data Science — Student Performance Analytics & Relational Merging
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=220&section=header&text=Introduction%20to%20Data%20Science&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Student%20Demographics%20Analytics%2C%20Data%20Merging%20%26%20EDA&descSize=16&descAlignY=60&descAlign=50" width="100%" alt="Introduction to Data Science Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78350F,50:D97706,100:FBBF24&customColorList=78350F,D97706,FBBF24&height=220&section=header&text=Introduction%20to%20Data%20Science&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Student%20Demographics%20Analytics%2C%20Data%20Merging%20%26%20EDA&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Introduction to Data Science Banner" />
 </p>
 
 <p align="center">
@@ -171,5 +171,5 @@ Contributions, bug reports, and architectural discussions are welcome!
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78350F,50:D97706,100:FBBF24&customColorList=78350F,D97706,FBBF24&height=100&section=footer" width="100%" alt="Footer Banner" />
 </p>
